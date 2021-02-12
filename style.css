@@ -1,0 +1,246 @@
+.weather-container {
+  background: lavenderblush;
+  border-radius: 60px;
+  opacity: 0.8;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.weather {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.temp {
+  font-size: 40px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.wind {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.city {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.weather-box {
+  background: lightcoral;
+  border-radius: 60px;
+  opacity: 0.8;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.town {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.weath {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.temperat {
+  font-size: 40px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.speed {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.weather-plot {
+  background: lavenderblush;
+  border-radius: 60px;
+  opacity: 0.8;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.onetown {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.oneweath {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.onetemperat {
+  font-size: 40px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.onespeed {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.weather-stash {
+  background: lightcoral;
+  border-radius: 60px;
+  opacity: 0.8;
+  text-align: center;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.twotown {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.twoweath {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.twotemperat {
+  font-size: 40px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.twospeed {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.weather-bash {
+  background: lavenderblush;
+  border-radius: 60px;
+  opacity: 0.8;
+  text-align: center;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.threetown {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.threeweath {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.threetemperat {
+  font-size: 40px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.threespeed {
+  font-size: 22px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  text-align: center;
+  margin: 0;
+  font-size: 56px;
+  padding: 2rem;
+  overflow: hidden;
+  text-shadow: 4px 2px #a39e9e;
+}
+.topnav button {
+  float: none;
+  border: 3px solid lightgrey;
+  border-radius: 12px;
+  background-color: rgb(79, 173, 204);
+  color: black;
+  font-size: 20px;
+  width: 350px;
+  padding: 10px;
+  margin: 30px 0;
+  box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.06);
+}
+
+/* Style the search box inside the navigation bar */
+.topnav input[type="text"] {
+  float: none;
+  padding: 6px;
+  text-align: center;
+  border: 3px solid #ccc;
+  margin-top: 40px;
+  border-radius: 12px;
+
+  font-size: 20px;
+  width: 330px;
+  padding: 10px;
+  box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.06);
+}
+
+.card-name {
+  font-size: 42px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.weather-con {
+  font-size: 28px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.temperature-con {
+  font-size: 42px;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.content {
+  overflow: hidden;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.world {
+  font-size: 46px;
+  text-align: center;
+  text-decoration: underline overline #131010;
+  text-shadow: 4px 2px #a39e9e;
+}
+
+.images {
+  height: 120px;
+  width: 12%;
+}
+
+body {
+  background: 
+    /* On "top" */ repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 0px,
+      rgb(238, 225, 225) 10px,
+      rgba(216, 195, 197, 0.849) 20px
+    ),
+    /* on "bottom" */ linear-gradient(to bottom, #eee, #999);
+}
