@@ -243,4 +243,5 @@ body {
       rgba(216, 195, 197, 0.849) 20px
     ),
     /* on "bottom" */ linear-gradient(to bottom, #eee, #999);
+  padding-bottom: 3rem;
 }
